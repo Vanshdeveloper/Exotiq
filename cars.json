@@ -1,0 +1,302 @@
+{
+    "highPerformanceCars": [
+        {
+            "make": "Mercedes-Benz",
+            "model": "AMG GT 63 S",
+            "year": 2023,
+            "horsepower": 1200,
+            "torque": "1100 Nm",
+            "topSpeed": "350 km/h",
+            "tuner": "Brabus",
+            "image": "Assests/mercedes-amg-gt-63.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "V8 Twin-Turbo",
+                    "modifications": [
+                        "Upgraded Turbos",
+                        "High-Flow Exhaust System",
+                        "Performance ECU Tune"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "Brabus Widestar",
+                    "wheels": "22-inch Brabus Monoblock Platinum Edition",
+                    "paint": "Obsidian Black with Carbon Accents",
+                    "aerodynamics": [
+                        "Active Rear Spoiler",
+                        "Carbon Fiber Diffuser"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Brabus Mastik Leather with Red Stitching",
+                    "infotainment": "Upgraded 12.3-inch Dual Screens",
+                    "additionalFeatures": [
+                        "Custom Carbon Fiber Trim",
+                        "Ambient Lighting",
+                        "Brabus Paddle Shifters"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "BMW",
+            "model": "M8 Competition",
+            "year": 2023,
+            "horsepower": 1050,
+            "torque": "1300 Nm",
+            "topSpeed": "330 km/h",
+            "tuner": "G-Power",
+            "image": "Assests/bmw-m8-competition.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "V8 Twin-Turbo",
+                    "modifications": [
+                        "Upgraded Turbos",
+                        "Forged Pistons",
+                        "G-Power Stage 3 Tune"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "G-Power Carbon Kit",
+                    "wheels": "21-inch HURRICANE RR Wheels",
+                    "paint": "Frozen Orange Metallic",
+                    "aerodynamics": [
+                        "Carbon Fiber Splitter",
+                        "Rear Lip Spoiler"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Alcantara with Orange Contrast Stitching",
+                    "infotainment": "Harman Kardon Surround Sound System",
+                    "additionalFeatures": [
+                        "Custom Steering Wheel",
+                        "G-Power Start/Stop Button"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "Ferrari",
+            "model": "SF90 Stradale",
+            "year": 2023,
+            "horsepower": 1100,
+            "torque": "900 Nm",
+            "topSpeed": "345 km/h",
+            "tuner": "Novitec",
+            "image": "Assests/ferrari-sf90.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "V8 Hybrid",
+                    "modifications": [
+                        "Performance ECU Upgrade",
+                        "Lightweight Exhaust System",
+                        "High-Performance Air Intake"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "Novitec Carbon Fiber Aero Kit",
+                    "wheels": "22-inch Novitec NF10 Forged",
+                    "paint": "Rosso Corsa with Matte Black Accents",
+                    "aerodynamics": [
+                        "Custom Rear Wing",
+                        "Enhanced Side Skirts"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Two-Tone Leather with Carbon Fiber Inserts",
+                    "infotainment": "Ferrari Advanced Multimedia System",
+                    "additionalFeatures": [
+                        "Custom Race Seats",
+                        "Novitec Shift Paddles"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "Lamborghini",
+            "model": "Aventador SVJ",
+            "year": 2023,
+            "horsepower": 1300,
+            "torque": "1150 Nm",
+            "topSpeed": "370 km/h",
+            "tuner": "Mansory",
+            "image": "Assests/lamborghini-aventador-svj.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "V12 Naturally Aspirated",
+                    "modifications": [
+                        "Mansory High-Performance Exhaust",
+                        "Custom ECU Remap",
+                        "High-Flow Air Filters"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "Mansory Carbon Fiber Widebody",
+                    "wheels": "21-inch Front, 22-inch Rear Yavin Forged",
+                    "paint": "Matte Black with Gold Accents",
+                    "aerodynamics": [
+                        "Full Carbon Fiber Diffuser",
+                        "Active Aero Kit"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Mansory Custom Leather with Gold Stitching",
+                    "infotainment": "Upgraded Touchscreen with Enhanced UI",
+                    "additionalFeatures": [
+                        "Carbon Fiber Steering Wheel",
+                        "Mansory Custom Gauges"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "Audi",
+            "model": "RS7",
+            "year": 2023,
+            "horsepower": 1050,
+            "torque": "1250 Nm",
+            "topSpeed": "335 km/h",
+            "tuner": "ABT Sportsline",
+            "image": "Assests/audi-rs7.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "V8 Twin-Turbo",
+                    "modifications": [
+                        "ABT Power S Performance Upgrade",
+                        "High-Flow Downpipes",
+                        "Sports Exhaust System"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "ABT Widebody Kit",
+                    "wheels": "22-inch ABT GR High-Performance Wheels",
+                    "paint": "Nardo Grey with Gloss Black Details",
+                    "aerodynamics": [
+                        "Carbon Fiber Rear Spoiler",
+                        "Custom Front Splitter"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "ABT Custom Alcantara with Red Stitching",
+                    "infotainment": "Bang & Olufsen Premium Sound System",
+                    "additionalFeatures": [
+                        "ABT Steering Wheel",
+                        "Custom Carbon Fiber Gear Shifter"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "Porsche",
+            "model": "911 Turbo S",
+            "year": 2023,
+            "horsepower": 1100,
+            "torque": "1050 Nm",
+            "topSpeed": "340 km/h",
+            "tuner": "TechArt",
+            "image": "Assests/porsche-911-turbo-s.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "Flat-6 Twin-Turbo",
+                    "modifications": [
+                        "TechArt Powerkit",
+                        "Sport Air Filters",
+                        "Sport Exhaust System with Flap Control"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "TechArt GTstreet R Kit",
+                    "wheels": "21-inch TechArt Formula V Wheels",
+                    "paint": "Racing Yellow with Carbon Fiber Accents",
+                    "aerodynamics": [
+                        "Active Rear Wing",
+                        "Enhanced Front Air Intakes"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Full Leather with Carbon Fiber Trim",
+                    "infotainment": "Burmester High-End Surround Sound System",
+                    "additionalFeatures": [
+                        "Custom Sports Seats",
+                        "TechArt Steering Wheel with Paddle Shifters"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "McLaren",
+            "model": "720S",
+            "year": 2023,
+            "horsepower": 1100,
+            "torque": "1050 Nm",
+            "topSpeed": "350 km/h",
+            "tuner": "Novitec",
+            "image": "Assests/mclaren-720s.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "V8 Twin-Turbo",
+                    "modifications": [
+                        "Upgraded Turbochargers",
+                        "Lightweight Exhaust System",
+                        "Performance ECU Tune"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "Novitec Carbon Fiber Aero Kit",
+                    "wheels": "20-inch Front, 21-inch Rear Forged Wheels",
+                    "paint": "Volcano Orange with Matte Black Accents",
+                    "aerodynamics": [
+                        "Active Rear Wing",
+                        "Enhanced Side Skirts"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Alcantara with Orange Stitching",
+                    "infotainment": "McLaren Advanced Touchscreen",
+                    "additionalFeatures": [
+                        "Carbon Fiber Trim",
+                        "Custom Steering Wheel"
+                    ]
+                }
+            }
+        },
+        {
+            "make": "Aston Martin",
+            "model": "DBS Superleggera",
+            "year": 2023,
+            "horsepower": 1000,
+            "torque": "1200 Nm",
+            "topSpeed": "330 km/h",
+            "tuner": "Mansory",
+            "image": "Assests/aston-martin-DBS-superleggera.jfif",
+            "upgrades": {
+                "engine": {
+                    "type": "5.2L V12 Twin-Turbo",
+                    "modifications": [
+                        "Mansory ECU Upgrade",
+                        "High-Flow Turbochargers",
+                        "Sport Exhaust with Flap Control"
+                    ]
+                },
+                "exterior": {
+                    "bodyKit": "Mansory Carbon Fiber Aero Kit",
+                    "wheels": "22-inch Mansory Wheels",
+                    "paint": "British Racing Green with Carbon Fiber",
+                    "aerodynamics": [
+                        "Rear Wing",
+                        "Side Air Intakes",
+                        "Front Splitter"
+                    ]
+                },
+                "interior": {
+                    "upholstery": "Two-Tone Leather with Carbon Fiber Trim",
+                    "infotainment": "Bang & Olufsen Sound System",
+                    "additionalFeatures": [
+                        "Custom Mansory Seats",
+                        "Carbon Fiber Steering Wheel"
+                    ]
+                }
+            }
+        }
+    ]
+}
