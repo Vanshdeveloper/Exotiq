@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.5.1/uicons-brands/css/uicons-brands.css'>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.5.1/uicons-bold-rounded/css/uicons-bold-rounded.css'>
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Exotiq</title>
+</head>
+
+<body>
+
+    <!-- Head Section -->
+
+    <header>
+        <div class="logo">
+            <p>Exotiq</p>
+        </div>
+
+        <button id="navBtn">
+            <div id="line-1" class="line-1"></div>
+            <div id="line-2" class="line-2"></div>
+        </button>
+
+        <nav id="nav" class="close">
+            <ul>
+                <li><a href="home">Home</a></li>
+                <li><a href="about">About</a></li>
+                <li><a href="services">Services</a></li>
+                <li><a href="cars">Cars</a></li>
+                <li><a href="contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+
+    <section id="home-sec">
+        <div class="auto-typing-intro">
+            <p class="intro">Welcome to <a>Exotiq</a></p>
+        </div>
+        <p class="tagline">Exotiq is your gateway to the most exclusive, high-performance luxury cars.</p>
+    </section>
+
+    <div class="seperation-line"></div>
+
+    <!-- About Section -->
+
+    <section id="about-sec">
+        <div class="about-bx">
+            <h3 class="about">About
+                <div class="underline-about"></div>
+            </h3>
+
+            <p class="about-content">Welcome to Exotiq, where luxury meets performance and only the finest
+                automobiles
+                make the cut. We specialize in bringing you the most exclusive, high-end vehicles from the world’s
+                leading brands, including Bugatti, Ferrari, Lamborghini, and more. At Exotiq, we cater to those with a
+                passion for power, precision, and unparalleled craftsmanship. Our curated collection features supercars
+                and hypercars that redefine excellence, offering more than just a drive - they deliver an experience.
+                Whether you’re a collector, an enthusiast, or someone seeking the ultimate ride, Exotiq is your
+                gateway to automotive perfection.</p>
+        </div>
+        <img src="Assests/about-section-img.png" alt="Mustang" class="about-section-img">
+    </section>
+
+    <div class="seperation-line"></div>
+
+    <section id="service-sec">
+        <div class="service-bx">
+            <h3 class="service">Services
+                <div class="underline-service"></div>
+            </h3>
+
+            <div class="service-content">
+                <ul>
+                    <li><a>Exclusive Vehicle Sales </a>- Exclusive Vehicle Sales</li>
+                    <li><a>Custom Vehicle Ordering </a>- Personalized orders for bespoke vehicles from top brands.</li>
+                    <li><a>Vehicle Acquisition Consulting </a>- Expert advice for sourcing rare and high-end
+                        automobiles.</li>
+                    <li><a>Luxury Vehicle Financing </a>- Tailored financial solutions for high-end purchases.</li>
+                    <li><a>Specialized Vehicle Maintenance </a>- Premium maintenance and servicing for luxury cars.</li>
+                    <li><a>Collector's Services </a>- Assistance with acquisition, storage, and management of
+                        collectible vehicles.</li>
+                </ul>
+            </div>
+        </div>
+        <img src="Assests/service-img.jfif" alt="Mustang" class="service-section-img">
+    </section>
+
+    <div class="seperation-line"></div>
+
+    <section id="cars-sec">
+        <h3 class="cars-bx">Cars
+            <div class="underline-cars"></div>
+        </h3>
+        <div id="cars"></div>
+        <button id="showMoreCarsBtn">Show More</button>
+    </section>
+
+    <div id="overlay">
+        <div class="overlay-contents">
+            <div id="close-btn"><i class="fi fi-br-cross"></i></div>
+            <div id="carImg"></div>
+            <div id="car-details"></div>
+        </div>
+    </div>
+
+    <div class="seperation-line"></div>
+
+    <section id="contact-sec">
+        <h3 class="contact-bx">Contact Us
+            <div class="underline-contact"></div>
+        </h3>
+
+        <div class="caution">
+            <p><i class="fi fi-br-engine-warning"></i>  "To book a test drive or purchase a car, please fill out the
+                information below. In the message section, type 'Test Drive' for scheduling a test drive or 'Car
+                Booking' for purchasing a car. After submitting, our team will reach out to you shortly."</p>
+        </div>
+
+        <div class="contact-form">
+            <form>
+                <label for="username">Username:</label>
+                <input type="text" name="username" id="username" required>
+                <label for="email-id">Email-id:</label>
+                <input type="email" name="email-id" id="email-id" required>
+                <label for="message">Message:</label>
+                <textarea name="message" id="message" required></textarea>
+                <button>Submit</button>
+            </form>
+        </div>
+    </section>
+
+    <div class="seperation-line"></div>
+
+    <footer>
+        <div class="ex-logo">
+            <h3>Exotiq</h3>
+        </div>
+        <div class="copy-right-text">&copy; Exotiq 2024</div>
+        <div class="social-links">
+            <a href="http://www.instagram.com/vk2207419/" target="_blank"> <i class="fi fi-brands-instagram"></i></a>
+            <a href="https://www.facebook.com/profile.php?id=100077577609521" target="_blank"><i
+                    class="fi fi-brands-facebook"></i></a>
+            <i class="fi fi-brands-twitter-alt"></i>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
