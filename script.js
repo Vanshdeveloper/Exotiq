@@ -159,7 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         carDetails.innerHTML = `
         <p><strong>Performance:</strong> This car boasts an impressive <a>${car.horsepower} horsepower</a> , reaching
-                    top speeds of <a>${car.topSpeed}</a>. Tuned by ${car.tuner}, it's built for ultimate driving pleasure.</p>
+                    top speeds of <a>${car.topSpeed}</a>. Tuned by <a>${car.tuner}</a>, it's built for ultimate driving pleasure.</p>
 
                 <div class="technical-specs">
                     <p><strong>Engine:</strong> Equipped with an advanced <a>${car.upgrades.engine.type}</a> engine featuring:
